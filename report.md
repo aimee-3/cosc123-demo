@@ -31,7 +31,7 @@ this is a break
 
 here is a list of lists:
 
--this is a cetegory
+-this is a category
   -sublist
   -sublist 2
   -sublist 3
