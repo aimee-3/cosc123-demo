@@ -1,10 +1,10 @@
 # This is the title
 
-this is just random text in the body
-
 ## This is a level 2 heading 
 
 If you want to use **bold** text, just surround the word with double star
+
+if you want to *italicise*, just surround the word with single star
 
 ### This is a level three heading
 
